@@ -150,8 +150,9 @@ async def on_message(message):
             if message.author.id == KING_USER_ID:
                 await message.channel.send("My deepest apologies, My glorious king. A technical issue has occurred. Please try again, and I shall serve you better.")
             else:
-                await message.channel.send("error, something broke. Probably your fault. Try again later, or don't. I don't care.")
+                await message.channel.send("i dont even know how to respond to that shitass message you just sent")
 
 
 # Run the bot
+
 client.run(DISCORD_BOT_TOKEN)
