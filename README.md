@@ -1,5 +1,5 @@
 # onferni
-Onferni is a discord bot I designed for fun that is configured to be sarcastic and rude to general users, but polite to me.
+Onferni is a discord bot I designed for fun that is configured to be sarcastic and rude to general users, but polite to me. The key feature is that you can set individual personalities for each user and even specific responses using the same code template.
 ## Technologies Used
 
 -   **Backend:** Python 3.8+
